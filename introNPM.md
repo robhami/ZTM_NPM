@@ -266,3 +266,5 @@ $ npm run build
 > browserify script.js > bundle.js
 
 ```
+
+Inportant to keep packages up to date. If you go to json file in github. Go to security alerts to see where issues are.
