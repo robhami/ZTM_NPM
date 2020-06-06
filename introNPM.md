@@ -35,6 +35,7 @@ To initiate NPM:
 ```
 Rob@RobPC MINGW64 ~/Documents/coding/zeromasterywebdev/JS/zeroMastery/bground_gen/background_generator (master)
 $ npm init
+
 This utility will walk you through creating a package.json file.
 It only covers the most common items, and tries to guess sensible defaults.
 
@@ -162,7 +163,7 @@ console.log(_);
 
 You need to install and run browserify: 
 
-```gitatributes
+```gitattributes
 
 Rob@RobPC MINGW64 ~/Documents/coding/zeromasterywebdev/JS/zeroMastery/bground_gen/background_generator (master)
 $ npm install -g browserify
